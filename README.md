@@ -33,6 +33,7 @@ $ npm run build
 ```
 - Moving the generated build file to "/opt/deployment/react"
 <p>Build to be done in parent directory "/opt/checkout/react-todo-add"</p>
+
 ```bash
 $ mkdir -p /opt/deployment/react
 $ sudo cp -r build/* /opt/deployment/react
