@@ -10,4 +10,6 @@ Part 1 - Create a sudo user in Ubuntu
 
 ```bash
 $ sudo adduser react
+$ sudo usermod -aG sudo DevOps
+$ su - react #To shift to react user
 ```
