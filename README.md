@@ -5,7 +5,7 @@
 ## Instructions
 <p>All work to be done on Ec2 instance</p>
 
-#Part 1 - Create a sudo user in Ubuntu
+###Part 1 - Create a sudo user in Ubuntu
 <p>Login to Linux create a user and add that user to the sudo group</p>
 
 ```bash
