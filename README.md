@@ -161,6 +161,7 @@ $ sudo docker-compose up -d
 ```
 <p>Do change the ec2 instance security group and add new rule for port 3000</p>
 - Run on HTTP://your_instance_ip:3000
+![image](https://github.com/chauhan971/React-todo-app-Deployment/assets/67625230/a706235e-fd29-4771-a164-46a763876371)
 
 
 
