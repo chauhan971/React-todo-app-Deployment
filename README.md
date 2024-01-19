@@ -157,7 +157,8 @@ services:
 $ sudo docker-compose build
 $ sudo docker-compose up -d
 ```
-
+<p>Do change the ec2 instance security group and add new rule for port 3000
+- Run on HTTP://your_instance_ip:3000 </p>
 
 
 
