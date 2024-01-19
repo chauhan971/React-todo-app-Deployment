@@ -94,10 +94,10 @@ $ sudo sh -c 'echo deb http://pkg.jenkins.io/debian-stable binary/ > /etc/apt/so
 $ sudo apt update
 $ sudo apt install jenkins
 ```
-<p>Access Jenkins at http://<your-instance-ip>:8080, get the admin password
-1. Create Jenkins pipeline job
-2. Install S3 plugin
-3. Update pipeline and upload the build using the s3 credential </p>
+<p>Access Jenkins at http://<your-instance-ip>:8080, get the admin password</your-instance-ip</p>
+- 1. Create Jenkins pipeline job
+- 2. Install S3 plugin
+- 3. Update pipeline and upload the build using the s3 credential
 
 Part 5 - Shell Scripting 
 
@@ -158,8 +158,8 @@ services:
 $ sudo docker-compose build
 $ sudo docker-compose up -d
 ```
-<p>Do change the ec2 instance security group and add new rule for port 3000
-- Run on HTTP://your_instance_ip:3000 </p>
+<p>Do change the ec2 instance security group and add new rule for port 3000</p>
+- Run on HTTP://your_instance_ip:3000
 
 
 
