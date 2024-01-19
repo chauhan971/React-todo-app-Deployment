@@ -96,7 +96,7 @@ $ sudo apt install jenkins
 ```
 <p>Access Jenkins at http://<your-instance-ip>:8080, get the admin password</your-instance-ip</p>
 
-- 2. Create Jenkins pipeline job
+- 1. Create Jenkins pipeline job
 - 2. Install S3 plugin
 - 3. Update pipeline and upload the build using the s3 credential
 
