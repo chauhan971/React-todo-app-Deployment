@@ -9,5 +9,4 @@ Part 1 - Create a sudo user in Ubuntu
 <p>Login to Linux create a user and add that user to the sudo group</p>
 ```bash
 $ sudo adduser react
-$ sudo usermod -aG sudo devops
 ```
